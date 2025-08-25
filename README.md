@@ -18,8 +18,3 @@ npm run dev
 ```
 Esto levanta la aplicación en: [http://localhost:5173](http://localhost:5173)
 
-## Funcionalidades
-- CRUD de empleados con vehículo.
-- Filtro por tipo de vehículo (automóvil/moto).
-- Buscador por nombre.
-- Edición en línea de los registros.

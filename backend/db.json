@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "nombre": "Ana P\u00e9rez",
+      "area": "Producci\u00f3n",
+      "tipo": "autom\u00f3vil",
+      "placa": "ABC123",
+      "color": "Rojo"
+    },
+    {
+      "id": 2,
+      "nombre": "Luis G\u00f3mez",
+      "area": "Finanzas",
+      "tipo": "moto",
+      "placa": "XYZ789",
+      "color": "Negro"
+    }
+  ]
+}
